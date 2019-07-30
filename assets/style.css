@@ -1,0 +1,38 @@
+body {
+  background-image: url("webBackGround.png");
+}
+
+h1 {
+  color: red;
+  font-size: 20px;
+  font-style: normal;
+  font-family: fantasy;
+  font-stretch: extra-expanded;
+
+}
+#credits{
+
+  background-color:blue;
+}
+
+
+
+.sort {
+  color: blue;
+  font-size: 10px;
+  font-family: inherit;
+}
+
+.special{
+  color: purple;
+  font-size: 40px;
+  font-family: cursive;
+  font-stretch: ultra-expanded;
+}
+
+#gameLink {
+  text-align: center;
+  border: 10px dashed pink;
+  font-size: 15px;
+  font-family: sans-serif;
+}
